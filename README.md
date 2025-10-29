@@ -1,2 +1,3 @@
 # ActiveDirectory-GroupManagement
-Create and manage user accounts in Active Directory.
+Understand how to create and manage groups in Active Directory for access control and organization.
+
