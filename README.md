@@ -1,5 +1,5 @@
 # ActiveDirectory-GroupManagement
-Watch me build this lab here! https://www.loom.com/share/285140d6fd27491e84dcab4ecc1eebbf
+Watch me build this lab here! https://www.loom.com/share/2e848df40cca4248a549d19dee0b941c
 
 Understand how to create and manage groups in Active Directory for access control and organization.
 ## 🧠 Skills Practiced
